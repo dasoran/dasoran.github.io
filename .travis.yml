@@ -1,0 +1,14 @@
+language: ruby
+cache: bundler
+rvm:
+- 2.1
+before_script:
+- rake setup
+script:
+- rake autodeploy
+env:
+  global:
+  - GIT_COMMITTER_NAME="dasoran via Travis-CI"
+  - GIT_COMMITTER_EMAIL="dasoran@gmail.com"
+  - GIT_AUTHOR_NAME="dasoran via Travis-CI"
+  - GIT_AUTHOR_EMAIL="dasoran@gmail.com"
