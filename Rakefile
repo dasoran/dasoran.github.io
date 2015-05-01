@@ -16,7 +16,7 @@ task :autodeploy do
   end
   cd '_deploy' do
     sh 'git add -A'
-    sh 'git commit -m "Update via Travis"'
+    sh 'git commit -m "[ci skip] Update via Travis"'
     sh "git push --quiet #{REPOSITORY} master 2> /dev/null"
   end
 end
