@@ -1,4 +1,4 @@
-REPOSITORY = 'git@github.com:dasoran/dasoran.github.io.git'
+REPOSITORY = 'https://$GH_TOKEN@github.com/dasoran/dasoran.github.io.git'
 
 define_method(:build_jekyll_pages) { sh 'jekyll build --destination ../blog' }
 
