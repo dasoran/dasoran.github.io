@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>雑多なブログ
 </description>
-    <link>http://dasoran.github.io/blog//</link>
-    <atom:link href="http://dasoran.github.io/blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 May 2015 08:58:55 +0000</pubDate>
-    <lastBuildDate>Fri, 01 May 2015 08:58:55 +0000</lastBuildDate>
+    <link>http://dasoran.github.io/blog/</link>
+    <atom:link href="http://dasoran.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 01 May 2015 09:07:43 +0000</pubDate>
+    <lastBuildDate>Fri, 01 May 2015 09:07:43 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 01 May 2015 15:15:56 +0000</pubDate>
-        <link>http://dasoran.github.io/blog//jekyll/update/2015/05/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://dasoran.github.io/blog//jekyll/update/2015/05/01/welcome-to-jekyll.html</guid>
+        <link>http://dasoran.github.io/blog/jekyll/update/2015/05/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://dasoran.github.io/blog/jekyll/update/2015/05/01/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
