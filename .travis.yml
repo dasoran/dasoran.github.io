@@ -8,6 +8,7 @@ script:
 - rake autodeploy
 env:
   global:
+  - secure: "u1fdaPvrHdLka5krg4AOdgIzm2a5LhB8iUsuGKiK8LZ6mFn1NSQpUZasvseFsUjwMaJ31Q4H/aSDL89Ui+AM9F3E/dg83lBDenZ4ZiEnKiVmP/VyaKBqrqs1X4PeV4Cwg0L0LB++OP6L9spU3y2bziy7CzY/px/gyAPUVGrPow8="
   - GIT_COMMITTER_NAME="dasoran via Travis-CI"
   - GIT_COMMITTER_EMAIL="dasoran@gmail.com"
   - GIT_AUTHOR_NAME="dasoran via Travis-CI"
