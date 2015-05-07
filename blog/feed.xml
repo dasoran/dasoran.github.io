@@ -6,8 +6,8 @@
 </description>
     <link>http://dasoran.github.io/blog/</link>
     <atom:link href="http://dasoran.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 May 2015 00:06:51 +0000</pubDate>
-    <lastBuildDate>Thu, 07 May 2015 00:06:51 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2015 00:46:22 +0000</pubDate>
+    <lastBuildDate>Thu, 07 May 2015 00:46:22 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -39,20 +39,19 @@
       </item>
     
       <item>
-        <title>Test</title>
-        <description>&lt;p&gt;layout: post
-title:  “Welcome to Jekyll!”
-date:   2015-05-01 15:15:56
-categories: jekyll update
-—
-# blogのテスト
-テスト投稿。CIが無限ループして大変だった・・・。&lt;/p&gt;
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;h1 id=&quot;blog&quot;&gt;blogのテスト&lt;/h1&gt;
+&lt;p&gt;テスト投稿。CIが無限ループして大変だった・・・。&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-        <link>http://dasoran.github.io/blog/2015/05/01/Test.html</link>
-        <guid isPermaLink="true">http://dasoran.github.io/blog/2015/05/01/Test.html</guid>
+        <pubDate>Fri, 01 May 2015 15:15:56 +0000</pubDate>
+        <link>http://dasoran.github.io/blog/jekyll/update/2015/05/01/Test.html</link>
+        <guid isPermaLink="true">http://dasoran.github.io/blog/jekyll/update/2015/05/01/Test.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
