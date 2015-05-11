@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>雑多なブログ
+    <title>猫耳の国、向日葵の少女</title>
+    <description>猫耳な女の子が空から落ちてくるまで頑張るブログ
 </description>
     <link>http://dasoran.github.io/blog/</link>
     <atom:link href="http://dasoran.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 May 2015 00:59:50 +0000</pubDate>
-    <lastBuildDate>Thu, 07 May 2015 00:59:50 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2015 06:01:23 +0000</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 06:01:23 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
