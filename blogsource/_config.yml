@@ -1,8 +1,8 @@
 # Site settings
-title: Your awesome title
+title: 猫耳の国、向日葵の少女
 email: dasoran@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  雑多なブログ
+  猫耳な女の子が空から落ちてくるまで頑張るブログ
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://dasoran.github.io" # the base hostname & protocol for your site
 twitter_username: dasoran
